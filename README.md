@@ -10,7 +10,10 @@ Source code will be developed by people other than the original creator.
 ## Main Developers
 [IceeFox](https://github.com/IceeFox)
 <br>
-[null](https://github.com/FailedCoder23)
+[FailedCoder23](https://github.com/FailedCoder23)
+<br>
+[SnesLover22](https://github.com/SnesLover22)
+
 
 ### Mockup
 ![sus](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png)
