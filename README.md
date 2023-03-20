@@ -8,7 +8,7 @@ Source code will be developed by people other than the original creator.
 ## Owner
 [Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
 ## Main Developers
-[IceeFox](https://github.com/IceeFox)
+[IceeFox](https://github.com/IceeFoox)
 <br>
 [FailedCoder23](https://github.com/FailedCoder23)
 <br>
@@ -17,7 +17,7 @@ Source code will be developed by people other than the original creator.
 
 ### Mockup
 ![sus](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png)
-
+credit to Sneslover22
 ## Issues?
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEES
