@@ -17,7 +17,8 @@ Source code will be developed by people other than the original creator.
 
 ### Mockup
 ![sus](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png)
-credit to Sneslover22
+<p style="text-align: center;">Sneslover22 for the mockup</p>
+<br>
 ## Issues?
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEES
