@@ -5,8 +5,7 @@ This time, this will actually be a decent project. Not a hoax, not a fake claim.
 <br>
 Source code will be developed by people other than the original creator.
 <br>
-PLANNED RELESED DATE:December 30th of 2023 (lot of time to make it)
-
+Scheduled Release Date: Projected for the end of this year, but may release late.
 ## Owner
 [Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
 ## Main Developers
@@ -18,8 +17,10 @@ PLANNED RELESED DATE:December 30th of 2023 (lot of time to make it)
 
 
 ### Mockup
-![sus](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png)
-<p style="text-align: center;">Sneslover22 for the mockup</p>
+Credit goes to SnesLover22 for creating the art.
+![moest epic art](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png "SnesLover22 for moest epic Photoshopping")
+
+</div>
 <br>
 
 
