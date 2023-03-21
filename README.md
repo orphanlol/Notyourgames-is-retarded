@@ -19,7 +19,7 @@ Source code will be developed by people other than the original creator.
 ![sus](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png)
 <p style="text-align: center;">Sneslover22 for the mockup</p>
 <br>
-## Issues?
+
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEES
 
@@ -41,3 +41,10 @@ Source code will be developed by people other than the original creator.
  - **Any portion of Mod Coder Pack and it's config files**
  - **Data that can be used alone to reconstruct portions of the game's source code**
  - **Software configured by default to allow users to play without owning a copy of Minecraft**
+
+
+## Links
+### These are links regarding EaglercraftY.
+Discord invite: https://discord.gg/s7ZwnwdWQQ
+<br>
+Official website: Coming soon 
