@@ -4,6 +4,7 @@ This is a project based on LAX1DUDE's EaglercraftX project.
 This time, this will actually be a decent project. Not a hoax, not a fake claim.
 <br>
 Source code will be developed by people other than the original creator.
+PLANNED RELESED DATE:December 30th of 2023 (lot of time to make it)
 
 ## Owner
 [Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
