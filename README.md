@@ -49,4 +49,10 @@ the official EaglercraftY project Discord invite---> https://discord.gg/s7ZwnwdW
 <br>
 Official website: Coming soon 
 
-##SPOLLIER!!! Sneak peak of the code of EaglercraftY
+## SPOILER!!!! Sneak peak of the code of EaglercraftY
+![Screenshot 2023-03-21 4 36 19 PM](https://user-images.githubusercontent.com/67106394/226746987-f15f7e30-9ea6-4686-bfe0-6a5f85e7f222.png)
+
+
+
+
+
