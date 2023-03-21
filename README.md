@@ -6,6 +6,8 @@ This time, this will actually be a decent project. Not a hoax, not a fake claim.
 Source code will be developed by people other than the original creator.
 <br>
 Scheduled Release Date: Projected for the end of this year, but may release late.
+<br>
+This is currently a fork of EaglercraftX. Major changes will be planned.
 ## Owner
 [Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
 ## Main Developers
