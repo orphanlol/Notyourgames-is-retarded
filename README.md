@@ -43,8 +43,8 @@ Source code will be developed by people other than the original creator.
  - **Software configured by default to allow users to play without owning a copy of Minecraft**
 
 
-## Links
+## Links/Issues
 ### These are links regarding EaglercraftY.
-Discord invite: https://discord.gg/s7ZwnwdWQQ
+the official EaglercraftY project Discord invite---> https://discord.gg/s7ZwnwdWQQ
 <br>
 Official website: Coming soon 
