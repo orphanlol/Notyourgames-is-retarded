@@ -17,7 +17,7 @@ Scheduled Release Date: Projected for the end of this year, but may release late
 
 
 ### Mockup
-
+Credit goes to SnesLover22 for creating the art.
 ![moest epic art](https://raw.githubusercontent.com/FailedCoder23/truth/main/assets/images/Screenshot%202023-03-20%20162811.png "SnesLover22 for moest epic Photoshopping")
 
 </div>
