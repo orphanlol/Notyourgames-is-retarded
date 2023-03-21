@@ -48,3 +48,5 @@ Source code will be developed by people other than the original creator.
 the official EaglercraftY project Discord invite---> https://discord.gg/s7ZwnwdWQQ
 <br>
 Official website: Coming soon 
+
+##SPOLLIER!!! Sneak peak of the code of EaglercraftY
