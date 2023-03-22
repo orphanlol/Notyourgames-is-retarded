@@ -11,7 +11,7 @@ This is currently a fork of EaglercraftX. Major changes will be planned.
 ## Owner
 [Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
 <br>
-(sorry for tricking and Lying all of you!! )
+bruh no one cares
 ## Main Developers
 [IceeFox](https://github.com/IceeFoox)
 <br>
