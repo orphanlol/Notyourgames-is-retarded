@@ -8,10 +8,7 @@ Source code will be developed by people other than the original creator.
 Scheduled Release Date: Projected for the end of this year, but may release late.
 <br>
 This is currently a fork of EaglercraftX. Major changes will be planned.
-## Owner
-[Controversial User In Eaglercraft Reddit](https://github.com/developer-lfierrro743)
-<br>
-bruh no one cares
+
 ## Main Developers
 [IceeFox](https://github.com/IceeFoox)
 <br>
@@ -48,18 +45,4 @@ Credit goes to SnesLover22 for creating the art.
  - **Any portion of Mod Coder Pack and it's config files**
  - **Data that can be used alone to reconstruct portions of the game's source code**
  - **Software configured by default to allow users to play without owning a copy of Minecraft**
-
-
-## Links/Issues
-### These are links regarding EaglercraftY.
-the official EaglercraftY project Discord invite---> https://discord.gg/s7ZwnwdWQQ
-<br>
-Official website: Coming soon 
-
-## SPOILER!!!! Sneak peak of the code of EAGLERCRAFTY-1.9-Offline file!!
-![Screenshot 2023-03-21 4 36 19 PM](https://user-images.githubusercontent.com/67106394/226746987-f15f7e30-9ea6-4686-bfe0-6a5f85e7f222.png)
-
-
-
-
 
